@@ -1,0 +1,10 @@
+dash==2.13.0
+Flask==2.1.2
+openpyxl==3.0.9
+pandas==1.4.2
+reportlab==4.0.4
+Pillow==9.5.0
+python-barcode==0.15.1
+gunicorn
+dash-tools
+pywin32
